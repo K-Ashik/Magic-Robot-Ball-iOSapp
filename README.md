@@ -1,6 +1,6 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
-# Magic 8 Ball
+# Magic ROBOT 8 Ball
 
 ## Our Goal
 
